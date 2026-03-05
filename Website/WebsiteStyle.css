@@ -3,7 +3,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 100vh; /* Ensures the body covers the full viewport height */
+  height: 100vh;
 }
 
 ::-webkit-scrollbar {
